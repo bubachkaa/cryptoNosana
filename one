@@ -1,0 +1,8 @@
+{
+    "BTC-USDT": {
+        "binance": "BTCUSDT",
+        "coinbase": "BTC-USDT",
+        "kucoin": "BTC-USDT",
+        "gateio": "BTC_USDT",
+        "dydx": null,
+        "ftx": "BTC/USDT"
